@@ -1,0 +1,609 @@
+{
+    "httpCode": 200,
+    "payload": {
+        "status": true,
+        "list": [
+            {
+                "label": "February 2025",
+                "events": [
+                    {
+                        "id": 1285,
+                        "name": "Open House Recruitment  Find the Perfect Job Match",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "February 13, 2025",
+                        "startDateName": "Thursday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "February",
+                        "startDateDate": "13",
+                        "startTime": "7:00 AM",
+                        "endDate": "February 13, 2025",
+                        "endDateName": "Thursday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "February",
+                        "endDateDate": "13",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1282,
+                        "name": "Love Notes: Valentines Day",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "February 14, 2025",
+                        "startDateName": "Friday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "February",
+                        "startDateDate": "14",
+                        "startTime": "7:00 AM",
+                        "endDate": "February 14, 2025",
+                        "endDateName": "Friday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "February",
+                        "endDateDate": "14",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1231,
+                        "name": "EDSA People Power Revolution Anniversary 2025 ",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "February 25, 2025",
+                        "startDateName": "Tuesday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "February",
+                        "startDateDate": "25",
+                        "startTime": "7:00 AM",
+                        "endDate": "February 25, 2025",
+                        "endDateName": "Tuesday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "February",
+                        "endDateDate": "25",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    }
+                ]
+            },
+            {
+                "label": "March 2025",
+                "events": []
+            },
+            {
+                "label": "April 2025",
+                "events": [
+                    {
+                        "id": 1234,
+                        "name": "Araw ng Kagitingan 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "April 09, 2025",
+                        "startDateName": "Wednesday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "April",
+                        "startDateDate": "9",
+                        "startTime": "7:00 AM",
+                        "endDate": "April 09, 2025",
+                        "endDateName": "Wednesday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "April",
+                        "endDateDate": "9",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1237,
+                        "name": "Maundy Thursday 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "April 17, 2025",
+                        "startDateName": "Thursday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "April",
+                        "startDateDate": "17",
+                        "startTime": "7:00 AM",
+                        "endDate": "April 17, 2025",
+                        "endDateName": "Thursday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "April",
+                        "endDateDate": "17",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1240,
+                        "name": "Good Friday 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "April 18, 2025",
+                        "startDateName": "Friday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "April",
+                        "startDateDate": "18",
+                        "startTime": "7:00 AM",
+                        "endDate": "April 18, 2025",
+                        "endDateName": "Friday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "April",
+                        "endDateDate": "18",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1219,
+                        "name": "Black Saturday 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "April 19, 2025",
+                        "startDateName": "Saturday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "April",
+                        "startDateDate": "19",
+                        "startTime": "7:00 AM",
+                        "endDate": "April 19, 2025",
+                        "endDateName": "Saturday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "April",
+                        "endDateDate": "19",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    }
+                ]
+            },
+            {
+                "label": "May 2025",
+                "events": [
+                    {
+                        "id": 1243,
+                        "name": "Labor Day PH 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "May 01, 2025",
+                        "startDateName": "Thursday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "May",
+                        "startDateDate": "1",
+                        "startTime": "7:00 AM",
+                        "endDate": "May 01, 2025",
+                        "endDateName": "Thursday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "May",
+                        "endDateDate": "1",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1246,
+                        "name": "Jose Abad Santos Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "May 07, 2025",
+                        "startDateName": "Wednesday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "May",
+                        "startDateDate": "7",
+                        "startTime": "7:00 AM",
+                        "endDate": "May 07, 2025",
+                        "endDateName": "Wednesday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "May",
+                        "endDateDate": "7",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    }
+                ]
+            },
+            {
+                "label": "June 2025",
+                "events": [
+                    {
+                        "id": 1249,
+                        "name": "PH Independence Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "June 12, 2025",
+                        "startDateName": "Thursday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "June",
+                        "startDateDate": "12",
+                        "startTime": "7:00 AM",
+                        "endDate": "June 12, 2025",
+                        "endDateName": "Thursday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "June",
+                        "endDateDate": "12",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    }
+                ]
+            },
+            {
+                "label": "July 2025",
+                "events": []
+            },
+            {
+                "label": "August 2025",
+                "events": [
+                    {
+                        "id": 1252,
+                        "name": "Ninoy Aquino Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "August 21, 2025",
+                        "startDateName": "Thursday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "August",
+                        "startDateDate": "21",
+                        "startTime": "7:00 AM",
+                        "endDate": "August 21, 2025",
+                        "endDateName": "Thursday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "August",
+                        "endDateDate": "21",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1255,
+                        "name": "National Heroes' Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "August 25, 2025",
+                        "startDateName": "Monday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "August",
+                        "startDateDate": "25",
+                        "startTime": "7:00 AM",
+                        "endDate": "August 25, 2025",
+                        "endDateName": "Monday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "August",
+                        "endDateDate": "25",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    }
+                ]
+            },
+            {
+                "label": "September 2025",
+                "events": []
+            },
+            {
+                "label": "October 2025",
+                "events": []
+            },
+            {
+                "label": "November 2025",
+                "events": [
+                    {
+                        "id": 1258,
+                        "name": "All Saints' Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "November 01, 2025",
+                        "startDateName": "Saturday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "November",
+                        "startDateDate": "1",
+                        "startTime": "7:00 AM",
+                        "endDate": "November 01, 2025",
+                        "endDateName": "Saturday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "November",
+                        "endDateDate": "1",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1213,
+                        "name": "All Souls' Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "November 02, 2025",
+                        "startDateName": "Sunday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "November",
+                        "startDateDate": "2",
+                        "startTime": "7:00 AM",
+                        "endDate": "November 02, 2025",
+                        "endDateName": "Sunday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "November",
+                        "endDateDate": "2",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1261,
+                        "name": "Bonifacio Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "November 30, 2025",
+                        "startDateName": "Sunday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "November",
+                        "startDateDate": "30",
+                        "startTime": "7:00 AM",
+                        "endDate": "November 30, 2025",
+                        "endDateName": "Sunday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "November",
+                        "endDateDate": "30",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    }
+                ]
+            },
+            {
+                "label": "December 2025",
+                "events": [
+                    {
+                        "id": 1264,
+                        "name": "Feast of the Immaculate Conception of Mary 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "December 08, 2025",
+                        "startDateName": "Monday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "December",
+                        "startDateDate": "8",
+                        "startTime": "7:00 AM",
+                        "endDate": "December 08, 2025",
+                        "endDateName": "Monday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "December",
+                        "endDateDate": "8",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1267,
+                        "name": "Pampanga Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "December 11, 2025",
+                        "startDateName": "Thursday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "December",
+                        "startDateDate": "11",
+                        "startTime": "7:00 AM",
+                        "endDate": "December 11, 2025",
+                        "endDateName": "Thursday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "December",
+                        "endDateDate": "11",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1270,
+                        "name": "Christmas Eve 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "December 24, 2025",
+                        "startDateName": "Wednesday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "December",
+                        "startDateDate": "24",
+                        "startTime": "7:00 AM",
+                        "endDate": "December 24, 2025",
+                        "endDateName": "Wednesday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "December",
+                        "endDateDate": "24",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1273,
+                        "name": "Christmas Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "December 25, 2025",
+                        "startDateName": "Thursday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "December",
+                        "startDateDate": "25",
+                        "startTime": "7:00 AM",
+                        "endDate": "December 25, 2025",
+                        "endDateName": "Thursday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "December",
+                        "endDateDate": "25",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1276,
+                        "name": "Rizal Day 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "December 30, 2025",
+                        "startDateName": "Tuesday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "December",
+                        "startDateDate": "30",
+                        "startTime": "7:00 AM",
+                        "endDate": "December 30, 2025",
+                        "endDateName": "Tuesday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "December",
+                        "endDateDate": "30",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    },
+                    {
+                        "id": 1279,
+                        "name": "Last Day of the Year 2025",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "December 31, 2025",
+                        "startDateName": "Wednesday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "December",
+                        "startDateDate": "31",
+                        "startTime": "7:00 AM",
+                        "endDate": "December 31, 2025",
+                        "endDateName": "Wednesday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "December",
+                        "endDateDate": "31",
+                        "endTime": "7:00 AM",
+                        "type": "events"
+                    }
+                ]
+            },
+            {
+                "label": "January 2026",
+                "events": []
+            }
+        ],
+        "events": {
+            "first": {
+                "list": [
+                    {
+                        "id": 1285,
+                        "name": "Open House Recruitment  Find the Perfect Job Match",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "February 13, 2025",
+                        "startDateName": "Thursday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "February",
+                        "startDateDate": "13",
+                        "startTime": 700,
+                        "endDate": "February 13, 2025",
+                        "endDateName": "Thursday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "February",
+                        "endDateDate": "13",
+                        "endTime": 700,
+                        "type": "events",
+                        "imageEventList": "7e96d562bf5b752140510b9d97418edf14851989-9ca7b39d29cc440b93b44fe8ca534836b57fca3c.jpeg",
+                        "majorEvent": "yes",
+                        "eventType": "major"
+                    },
+                    {
+                        "id": 1282,
+                        "name": "Love Notes: Valentines Day",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "February 14, 2025",
+                        "startDateName": "Friday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "February",
+                        "startDateDate": "14",
+                        "startTime": 700,
+                        "endDate": "February 14, 2025",
+                        "endDateName": "Friday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "February",
+                        "endDateDate": "14",
+                        "endTime": 700,
+                        "type": "events",
+                        "imageEventList": "74c96db47b8f4b092bbf7f158647a44b40071da9-e65ecad19c9e4627cae2fdf398eadd086ebee2a7.png",
+                        "majorEvent": "yes",
+                        "eventType": "major"
+                    },
+                    {
+                        "id": 1231,
+                        "name": "EDSA People Power Revolution Anniversary 2025 ",
+                        "description": null,
+                        "country": "PH",
+                        "wholeDayEvent": "no",
+                        "startDate": "February 25, 2025",
+                        "startDateName": "Tuesday",
+                        "startDateYear": "2025",
+                        "startDateMonth": "February",
+                        "startDateDate": "25",
+                        "startTime": 700,
+                        "endDate": "February 25, 2025",
+                        "endDateName": "Tuesday",
+                        "endDateYear": "2025",
+                        "endDateMonth": "February",
+                        "endDateDate": "25",
+                        "endTime": 700,
+                        "type": "events",
+                        "imageEventList": "b4267db29522ed826ff3edc5349be26c9daaf7bf-297875d5c597ebf70f1e7e59d3953c46ac2d092d.png",
+                        "majorEvent": "yes",
+                        "eventType": "major"
+                    }
+                ],
+                "records": 3,
+                "placeholder": {
+                    "image": "",
+                    "month": "February",
+                    "year": 2025
+                },
+                "next": false,
+                "previous": false,
+                "currentPage": 0,
+                "nextPage": 1,
+                "major": 3
+            },
+            "second": {
+                "list": [],
+                "records": 0,
+                "placeholder": {
+                    "image": "",
+                    "month": "March",
+                    "year": 2025
+                },
+                "next": false,
+                "previous": false,
+                "currentPage": 0,
+                "nextPage": 1,
+                "major": 0
+            }
+        },
+        "yearList": [
+            {
+                "event_year": 2019
+            },
+            {
+                "event_year": 2020
+            },
+            {
+                "event_year": 2021
+            },
+            {
+                "event_year": 2022
+            },
+            {
+                "event_year": 2023
+            },
+            {
+                "event_year": 2024
+            },
+            {
+                "event_year": 2025
+            },
+            {
+                "event_year": 2026
+            }
+        ]
+    }
+}
